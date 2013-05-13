@@ -1,0 +1,4 @@
+A helper library to support zero config in Android.
+As Android 4.1 introduced the NSD to the platform to support the zero config, and previously version can use JmDNS as an option. This library is designed to support the two options.
+The interface is the same as the NSD interface in Android platform.
+Enjoy.
