@@ -1,5 +1,5 @@
 /**
- * CopyRight (C), 2013, www.winchannel.net
+ * CopyRight (C), 2013
  */
 
 package net.dongyunli.zeroservice;
